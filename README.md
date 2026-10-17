@@ -32,3 +32,14 @@ The Streamlit dashboard includes:
 - Overview
 - Fraud Analysis
 - Model Performance
+
+## Dashboard Screenshots
+
+### Overview
+![Dashboard Overview](screenshots/overview.png)
+
+### Fraud Analysis
+![Fraud Analysis](screenshots/fraud-analysis.png)
+
+### Model Performance
+![Model Performance](screenshots/model-performance.png)
